@@ -31,7 +31,7 @@ Released   : 20130920
 		</div>
 		<div id="menu">
 			<ul>
-				<li class="current_page_item"><a href="#" accesskey="1" title="">主頁</a></li>
+				<li class="current_page_item"><a href="#" accesskey="1" title="">Homepage</a></li>
 				<li><a href="#" accesskey="2" title="">Our Clients</a></li>
 				<li><a href="#" accesskey="3" title="">About Us</a></li>
 				<li><a href="#" accesskey="4" title="">Careers</a></li>
